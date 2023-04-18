@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
 <p></p>
 
-Neste projeto foi desenvolvido um banco de dados do McDonalds, utilizando o MongoDB e montagens de queries com os conceitos de NoSQL. 
+Neste projeto foi desenvolvido um banco de dados do McDonald's, utilizando o MongoDB e montagens de queries com os conceitos de NoSQL. 
 
 ---   
 <div align="center">
